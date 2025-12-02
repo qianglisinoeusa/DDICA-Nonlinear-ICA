@@ -1,1 +1,2 @@
-Deep Deterministic Independent Component Analysis For NeuroImaging (**Ongoing Work**)
+Deep Deterministic Nonlinear Independent Component Analysis (**Ongoing Work**)
+The complete data and code will be uploaded here later.
